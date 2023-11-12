@@ -1,4 +1,4 @@
-#@copyright : prebared by Salah Soliman (Learn In Depth)
+
 
 CC=arm-none-eabi-
 CFLAGS= -mcpu=cortex-m3 -mthumb -gdwarf-2
